@@ -5,7 +5,7 @@
   },
   {
     "ParameterKey": "CodeCommitRepoUrl",
-    "ParameterValue": "https://git-codecommit.us-west-2.amazonaws.com/v1/repos/quickstart-ci-repo"
+    "ParameterValue": "https://git-codecommit.ap-southeast-2.amazonaws.com/v1/repos/quickstart-ci-repo"
   },
   {
     "ParameterKey": "SourceBranch",

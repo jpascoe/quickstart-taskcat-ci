@@ -23,6 +23,7 @@ tests:
     parameter_input: input-params1.json
     template_file: taskcat-ci-pipeline.template
     regions:
+      - ap-southeast-2
       - us-east-1
       - us-east-2
       - us-west-1
@@ -31,4 +32,4 @@ tests:
   #   parameter_input: input-params-codecommit.json
   #   template_file: taskcat-ci-pipeline.yaml.template
   #   regions:
-  #     - us-west-2
+  #     - ap-southeast-2
